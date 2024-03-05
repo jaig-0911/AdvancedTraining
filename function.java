@@ -1,5 +1,5 @@
-function1()
-{
- echo "hello world"
+function1() { 
+   echo "Hello world"
 }
+function2()
 function3()
